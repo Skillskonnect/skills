@@ -1,0 +1,19 @@
+2021-10-07T12:27:33+00:00 CRITICAL Uncaught Error: Cannot use object of type WP_Error as array in C:\xampp\htdocs\skills\wp-content\themes\consulting\admin\classes\stm-theme-changelog.php:19
+Stack trace:
+#0 C:\xampp\htdocs\skills\wp-includes\class-wp-hook.php(303): STM_Theme_Changelog::request_theme_changelog('')
+#1 C:\xampp\htdocs\skills\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\skills\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\skills\wp-admin\admin-ajax.php(45): do_action('admin_init')
+#4 {main}
+  thrown in C:\xampp\htdocs\skills\wp-content\themes\consulting\admin\classes\stm-theme-changelog.php on line 19
+
+2021-10-07T12:39:04+00:00 CRITICAL Uncaught Error: Cannot use object of type WP_Error as array in C:\xampp\htdocs\skills\wp-content\themes\consulting\admin\classes\stm-theme-changelog.php:19
+Stack trace:
+#0 C:\xampp\htdocs\skills\wp-includes\class-wp-hook.php(303): STM_Theme_Changelog::request_theme_changelog('')
+#1 C:\xampp\htdocs\skills\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\skills\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\skills\wp-admin\admin.php(175): do_action('admin_init')
+#4 C:\xampp\htdocs\skills\wp-admin\index.php(10): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\skills\wp-content\themes\consulting\admin\classes\stm-theme-changelog.php on line 19
+

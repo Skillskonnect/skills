@@ -1,0 +1,701 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Booking Calendar | Appointment Booking | BookIt\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-12-07 07:13+0000\n"
+"PO-Revision-Date: 2021-06-04 05:34+0000\n"
+"Last-Translator: \n"
+"Language-Team: Русский\n"
+"Language: ru_RU\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10 >= 2 && n%10<=4 &&(n%100<10||n%100 >= 20)? 1 : 2);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.0; wp-5.6"
+
+msgid "1 year"
+msgstr " 1 год"
+
+msgid "Actions"
+msgstr "Действия"
+
+#: includes/classes/Translations.php:76
+msgid "Add"
+msgstr "Добавить"
+
+#: includes/classes/Translations.php:72
+msgid "Add New"
+msgstr "Создать"
+
+#: includes/classes/Translations.php:84
+msgid "Add New Category"
+msgstr "Создать Категорию"
+
+msgid "All"
+msgstr "Все"
+
+#: includes/classes/Translations.php:75
+msgid "All Appointments"
+msgstr "Все записи на прием"
+
+msgid "All Service"
+msgstr "Сервисы"
+
+msgid "All Staff"
+msgstr "Сотрудники"
+
+msgid "Annual"
+msgstr "годовой"
+
+msgid "Appointment"
+msgstr "Прием"
+
+#: includes/classes/admin/AppointmentsController.php:111
+msgid "Appointment Deleted!"
+msgstr "Запись на прием удалена"
+
+msgid "Appointment ID"
+msgstr "ID записи на прием"
+
+#: includes/classes/AppointmentController.php:64
+msgid "Appointment Saved!"
+msgstr "Запись на прием сохранена"
+
+#: includes/classes/admin/AppointmentsController.php:92
+msgid "Appointment Status Changed!"
+msgstr "Статус изменен"
+
+#: includes/classes/admin/AppointmentsController.php:75
+msgid "Appointment Updated!"
+msgstr "Данные записи на прием обновлены"
+
+#: templates/dashboard/bookit-appointments.php:2
+msgid "Appointments"
+msgstr "Записи на прием"
+
+#: includes/classes/Translations.php:54 includes/classes/Translations.php:80
+msgid "Approve"
+msgstr "Подтвердить"
+
+msgid "Approved"
+msgstr "Подтвержден"
+
+msgid "approved"
+msgstr "подтвержден"
+
+msgid "Auto Refresh"
+msgstr "Автообновление"
+
+#: includes/classes/Translations.php:35
+msgid "Book Now"
+msgstr "Забронировать"
+
+#: includes/classes/Translations.php:17
+msgid "Booking Appointment"
+msgstr "Запись на прием "
+
+#. Description of the plugin
+msgid "Booking Appointments Calendar. You can easily realize Booking Appointments with this plugin."
+msgstr "Календарь записи на прием. С помощью этого плагина вы можете легко реализовать бронирование встреч. "
+
+#. Name of the plugin
+msgid "Booking Calendar | Appointment Booking | BookIt"
+msgstr ""
+
+#: includes/classes/Translations.php:25
+msgid "Booking Details"
+msgstr "Детали бронирования"
+
+#: includes/widgets/ElementorWidgetSettings.php:46 includes/widgets/VisualComposerWidget.php:32
+msgid "Bookit Calendar"
+msgstr ""
+
+msgid "BookIt Calendar Appointment Plugin"
+msgstr ""
+
+#: includes/classes/Translations.php:59
+msgid "Bookit Plugin"
+msgstr "плагин Bookit"
+
+#: templates/bookit-calendar.php:3
+msgid "Calendar"
+msgstr "Календарь"
+
+#: includes/widgets/ElementorWidgetSettings.php:93
+msgid "Calendar Settings"
+msgstr "Настройки календаря"
+
+#: includes/classes/Translations.php:56 includes/classes/Translations.php:82
+msgid "Cancel"
+msgstr "Отменить"
+
+msgid "Cancelled"
+msgstr "Отменен"
+
+msgid "cancelled"
+msgstr "отменен"
+
+#: includes/classes/Translations.php:73
+msgid "Categories"
+msgstr "Категории"
+
+msgid "Category"
+msgstr "Категория"
+
+#: includes/classes/admin/CategoriesController.php:44
+msgid "Category Deleted!"
+msgstr "Категория удалена"
+
+#: includes/classes/classes/admin/ServicesController.php:64
+msgid "Category is required"
+msgstr "Выберите категорию"
+
+#: includes/classes/classes/admin/CategoriesController.php:16
+msgid "Category Name can't be empty and must be greater than 3 characters"
+msgstr "Название категории не может быть пустым и менее 3 символов"
+
+#: includes/classes/admin/CategoriesController.php:25
+msgid "Category Saved!"
+msgstr "Данные категории сохранены!"
+
+msgid "Changing of the service duration will not affect the existing appointments and will be applied only to new appointments"
+msgstr ""
+"Изменение длительности времени сервиса не повлияет на существующие записи на прием и будет применяться только к новым записям "
+"на прием. "
+
+msgid ""
+"Changing of the Staff working hours will not affect the existing appointments and will be applied only to new appointments"
+msgstr ""
+"Изменение рабочего времени сотрудника  не повлияет на существующие встречи и будет применяться только к новым записям на "
+"прием. "
+
+#: includes/classes/Translations.php:13
+msgid "Choose Category"
+msgstr "Выберите категорию"
+
+#: includes/classes/Translations.php:14
+msgid "Choose Service"
+msgstr "Выберите сервис"
+
+#: includes/classes/Translations.php:42
+msgid "Client Name"
+msgstr "Имя клиента"
+
+msgid "Comment"
+msgstr "Комментарий"
+
+msgid "complete"
+msgstr "завершен"
+
+#: includes/classes/Translations.php:48
+msgid "Confirmation mismatched."
+msgstr "Поле подтверждение не совпадает. "
+
+#: includes/widgets/VisualComposerWidget.php:34
+msgid "Content"
+msgstr "Содержание"
+
+msgid "Create"
+msgstr "Создать"
+
+#: includes/classes/Translations.php:20
+msgid "Customer"
+msgstr "Клиент"
+
+#: includes/classes/admin/CustomersController.php:82
+msgid "Customer Deleted!"
+msgstr "Клиент удален из системы"
+
+msgid "Customer name"
+msgstr "Имя клиента"
+
+msgid "Customer Phone"
+msgstr "Телефон клиента"
+
+#: includes/classes/admin/CustomersController.php:63
+msgid "Customer Saved!"
+msgstr "Данные клиента сохранены"
+
+#: templates/dashboard/bookit-customers.php:2
+msgid "Customers"
+msgstr "Клиенты"
+
+msgid "Date"
+msgstr "Дата"
+
+#: includes/classes/Translations.php:78
+msgid "Delete"
+msgstr "Удалить"
+
+msgid "Detailed view"
+msgstr "Детально"
+
+msgid "Details"
+msgstr "Детали"
+
+msgid "Developer Oriented"
+msgstr ""
+
+msgid "disabled"
+msgstr "отключено"
+
+#: includes/classes/Translations.php:77
+msgid "Edit"
+msgstr "Редактировать"
+
+msgid "Edit Appointments"
+msgstr "Изменить данные"
+
+#: includes/classes/Translations.php:27
+msgid "Email"
+msgstr ""
+
+#: includes/classes/classes/admin/CustomersController.php:62
+msgid "Email is required"
+msgstr "Поле \"Email\" обязательно"
+
+#: includes/classes/Translations.php:19
+msgid "Employee"
+msgstr "Сотрудник"
+
+#: includes/classes/Translations.php:85
+msgid "Enter Category Name"
+msgstr "Введите название категории"
+
+msgid "Enter password"
+msgstr "Введите пароль"
+
+msgid "Enter your comment"
+msgstr "Введите комментарий"
+
+#: includes/classes/AppointmentController.php:67 includes/classes/AppointmentController.php:82
+#: includes/classes/AppointmentController.php:97 includes/classes/AppointmentController.php:112
+#: includes/classes/AppointmentController.php:127 includes/classes/admin/ServicesController.php:47
+#: includes/classes/admin/ServicesController.php:69 includes/classes/admin/ServicesController.php:88
+#: includes/classes/admin/AppointmentsController.php:48 includes/classes/admin/AppointmentsController.php:78
+#: includes/classes/admin/AppointmentsController.php:95 includes/classes/admin/AppointmentsController.php:114
+#: includes/classes/admin/CategoriesController.php:28 includes/classes/admin/CategoriesController.php:47
+#: includes/classes/admin/SettingsController.php:58 includes/classes/admin/StaffController.php:41
+#: includes/classes/admin/StaffController.php:108 includes/classes/admin/StaffController.php:131
+#: includes/classes/admin/CustomersController.php:44 includes/classes/admin/CustomersController.php:66
+#: includes/classes/admin/CustomersController.php:85
+msgid "Error occurred!"
+msgstr "Ошибка системы"
+
+#: includes/classes/Translations.php:52
+msgid "Filter by Service"
+msgstr "Фильтр по сервису"
+
+#: includes/classes/Translations.php:53
+msgid "Filter by Staff"
+msgstr "Фильтр по сотруднику"
+
+msgid "free"
+msgstr "бесплатно"
+
+#: includes/classes/Translations.php:15
+msgid "From"
+msgstr "С"
+
+#: includes/classes/Translations.php:26
+msgid "Full Name"
+msgstr "Имя"
+
+#: includes/classes/classes/admin/StaffController.php:68 includes/classes/classes/admin/CustomersController.php:75
+msgid "Full Name is required"
+msgstr "Поле  \"Имя\" обязательно "
+
+#: includes/classes/AppointmentController.php:46
+msgid "Full name must be between 3 and 25 characters long"
+msgstr "Поле \"Имя\" должно быть не менее 3 символов и не более 25 символов"
+
+#: includes/classes/classes/admin/StaffController.php:65 includes/classes/classes/admin/CustomersController.php:72
+msgid "Full Name must be greater than 3 characters"
+msgstr "Поле \"Имя\" должно быть длиннее трех символов"
+
+msgid "Get now"
+msgstr "Заказать"
+
+#. URI of the plugin
+msgid "https://bookit.stylemixthemes.com/"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://stylemixthemes.com/"
+msgstr ""
+
+#: includes/classes/Translations.php:31
+msgid "I will pay locally"
+msgstr "Оплата на месте"
+
+#: includes/classes/Translations.php:40
+msgid "in"
+msgstr "в"
+
+#: includes/classes/Translations.php:47
+msgid "Invalid Email address."
+msgstr "Не корректный формат \"email\""
+
+#: includes/helpers.php:58 includes/helpers.php:60
+msgid "Keep empty"
+msgstr ""
+
+msgid "Last Update:"
+msgstr ""
+
+msgid "Learn more."
+msgstr "Узнать больше."
+
+msgid "Lifetime"
+msgstr ""
+
+msgid "locally"
+msgstr "на месте"
+
+msgid "Most Popular"
+msgstr ""
+
+msgid "New customer"
+msgstr "Новый клиент"
+
+#: includes/classes/Translations.php:16
+msgid "No available Services!"
+msgstr "Нет доступных сервисов"
+
+#: includes/classes/Translations.php:50
+msgid "No Booked Appointments"
+msgstr ""
+
+msgid "No Payment Method"
+msgstr "Не указан способ оплаты"
+
+#: includes/classes/Translations.php:74
+msgid "No Results"
+msgstr "Не найдено"
+
+#: includes/classes/Translations.php:49
+msgid "Not Available"
+msgstr "Не доступно"
+
+#: includes/classes/classes/admin/StaffController.php:59 includes/classes/classes/admin/CustomersController.php:66
+msgid "Not valid Email"
+msgstr "Не корректный формат электронного адреса"
+
+#: includes/helpers.php:69 includes/helpers.php:71
+msgid "Nothing found"
+msgstr "Не найдено"
+
+#: includes/classes/Translations.php:29
+msgid "Password"
+msgstr "Пароль"
+
+#: includes/classes/Translations.php:30
+msgid "Password Confirmation"
+msgstr "Подтверждение пароля"
+
+#: includes/classes/AppointmentController.php:59
+msgid "Passwords may not contain the character '\\'"
+msgstr "Пароль не может содержать символ '\\'"
+
+#: includes/classes/Translations.php:57 includes/classes/Translations.php:83
+msgid "Past"
+msgstr "прошло"
+
+#: includes/classes/Translations.php:33
+msgid "Pay now with Credit Card"
+msgstr "Оплата картой"
+
+#: includes/classes/Translations.php:32
+msgid "Pay now with PayPal"
+msgstr "PayPal оплата"
+
+msgid "Payment"
+msgstr "Оплата"
+
+msgid "Payment method"
+msgstr "Способ оплаты"
+
+msgid "Payment status"
+msgstr "Статус оплаты"
+
+msgid "Pending"
+msgstr "В ожидании "
+
+msgid "pending"
+msgstr "в ожидании "
+
+msgid "per year"
+msgstr "за год"
+
+#: includes/classes/Translations.php:28
+msgid "Phone"
+msgstr "Телефон"
+
+#: includes/classes/classes/admin/StaffController.php:54 includes/classes/classes/admin/CustomersController.php:57
+msgid "Phone number is not correct"
+msgstr "Не корректно указан номер телефона"
+
+#: includes/widgets/VisualComposerWidget.php:35
+msgid "Place Bookit Calendar"
+msgstr ""
+
+#: includes/classes/Translations.php:24
+msgid "Please choose a Service!"
+msgstr "Выберите сервис"
+
+#: includes/classes/AppointmentController.php:55
+msgid "Please enter a password"
+msgstr "Введите пароль"
+
+#: includes/classes/AppointmentController.php:26
+msgid "Please enter a valid phone number"
+msgstr "Введите корректный номер телефона"
+
+#: includes/classes/AppointmentController.php:37
+msgid "Please enter email"
+msgstr "Введите электронный адрес"
+
+#: includes/classes/AppointmentController.php:32
+msgid "Please enter email or phone"
+msgstr "Введите электронный адрес или телефон"
+
+#: includes/classes/AppointmentController.php:63
+msgid "Please enter the same password in both password fields"
+msgstr "Подтверждение пароля должно совпадать"
+
+#: includes/classes/AppointmentController.php:41
+msgid "Please enter your email in format youremail@example.com"
+msgstr "Введите ваш электронный адрес в формате youremail@example.com"
+
+#: includes/classes/Translations.php:58
+msgid "Powered by"
+msgstr ""
+
+#: includes/classes/Translations.php:22
+msgid "Price"
+msgstr "Цена"
+
+#: includes/classes/classes/admin/ServicesController.php:60
+msgid "Price can't be empty"
+msgstr "Укажите цену"
+
+#: includes/classes/classes/admin/ServicesController.php:57
+msgid "Price must be a number"
+msgstr "Поле \"цена\" должно быть числом"
+
+msgid "Pricing"
+msgstr "Цены"
+
+#: includes/classes/Translations.php:45
+msgid "Print Confirmation"
+msgstr "Распечатать подтверждение"
+
+msgid "Reason for cancellation "
+msgstr "Причина отмены"
+
+msgid "Reason message"
+msgstr "Причина"
+
+#: includes/classes/Translations.php:55 includes/classes/Translations.php:81
+msgid "Reject"
+msgstr "Отклонить"
+
+msgid "rejected"
+msgstr "отклоненно"
+
+msgid "Repeat password"
+msgstr "Повторите пароль"
+
+#: includes/classes/Translations.php:37
+msgid "Reservation confirmation"
+msgstr "Подтверждение бронирования "
+
+#: includes/classes/Translations.php:44
+msgid "Reservation Date"
+msgstr "Дата бронирования "
+
+#: includes/classes/Translations.php:43
+msgid "Reservation Time"
+msgstr "Время бронирования "
+
+#: includes/classes/Translations.php:79
+msgid "Save"
+msgstr "Сохранить"
+
+#: includes/classes/Translations.php:71
+msgid "Search"
+msgstr "Поиск"
+
+#: includes/classes/Translations.php:41
+msgid "seconds"
+msgstr "секунд"
+
+msgid "Select"
+msgstr "Выберите"
+
+#: includes/widgets/ElementorWidgetSettings.php:100 includes/widgets/VisualComposerWidget.php:39
+msgid "Select Category"
+msgstr "Выберите категорию"
+
+#: includes/widgets/ElementorWidgetSettings.php:109 includes/widgets/VisualComposerWidget.php:47
+msgid "Select Service"
+msgstr "Выберите сервис"
+
+#: includes/widgets/ElementorWidgetSettings.php:118 includes/widgets/VisualComposerWidget.php:55
+msgid "Select Staff"
+msgstr "Выберите сотрудника"
+
+msgid "Selected"
+msgstr "Выбрано"
+
+#: includes/classes/AppointmentController.php:21
+msgid "Selected Service Time is not available!"
+msgstr "Выбранное время не доступно"
+
+msgid "Send Notification to:"
+msgstr "Отправить уведомление:"
+
+#: includes/classes/Translations.php:18
+msgid "Service"
+msgstr "Сервис"
+
+msgid "service"
+msgstr "сервис"
+
+#: includes/classes/admin/ServicesController.php:85
+msgid "Service Deleted!"
+msgstr "Данные сервиса удалены"
+
+#: includes/classes/admin/ServicesController.php:66
+msgid "Service Saved!"
+msgstr "Данные сервиса сохранены"
+
+#: templates/dashboard/bookit-services.php:2
+msgid "Services"
+msgstr "Сервисы"
+
+#: templates/dashboard/bookit-settings.php:2 includes/classes/admin/AdminMenu.php:100
+msgid "Settings"
+msgstr "Настройки"
+
+#: includes/classes/admin/SettingsController.php:55
+msgid "Settings Saved!"
+msgstr "Настройки сохранены"
+
+msgid "Single Site"
+msgstr ""
+
+msgid "Something went wrong"
+msgstr "Что-то пошло не так"
+
+#: templates/dashboard/bookit-staff.php:2
+msgid "Staff"
+msgstr "Сотрудники"
+
+msgid "staff"
+msgstr "сотрудник"
+
+#: includes/classes/admin/StaffController.php:128
+msgid "Staff Deleted!"
+msgstr "Данные сотрудника удалены"
+
+#: includes/classes/admin/StaffController.php:105
+msgid "Staff Saved!"
+msgstr "Данные сотрудника сохранены"
+
+#: includes/classes/Translations.php:51
+msgid "Status"
+msgstr "Статус"
+
+#. Author of the plugin
+msgid "StylemixThemes"
+msgstr ""
+
+#: includes/classes/Translations.php:23
+msgid "Submit"
+msgstr "Подтвердить"
+
+msgid "Tested up to:"
+msgstr ""
+
+msgid "The duration of the time slot"
+msgstr "Длительность временного интервала"
+
+#: includes/classes/Translations.php:46
+msgid "This field is required."
+msgstr "Поле обязательно"
+
+#: includes/classes/Translations.php:21
+msgid "Time"
+msgstr "Время"
+
+#: includes/classes/classes/admin/ServicesController.php:73
+msgid "Title is required"
+msgstr "Название обязательно"
+
+#: includes/classes/classes/admin/ServicesController.php:70
+msgid "Title must be greater than 3 characters"
+msgstr "Название должно быть длиннее 3 символов"
+
+msgid "To use this feature you need to install WooCommerce Plugin."
+msgstr "Необходимо установить WooCommerce плагин"
+
+msgid "Total"
+msgstr "Итого"
+
+msgid "Type to search"
+msgstr ""
+
+msgid "Up to 25 Sites"
+msgstr ""
+
+msgid "Up to 5 Sites"
+msgstr ""
+
+#: includes/classes/admin/AdminMenu.php:104
+msgid "Upgrade to Pro"
+msgstr ""
+
+msgid "Version:"
+msgstr ""
+
+msgid "View Changelog"
+msgstr ""
+
+#: includes/classes/Translations.php:38
+msgid "We have sent your booking information to your email address."
+msgstr "Данные о записи на прием были отправлены на ваш электронный адрес"
+
+#: includes/classes/Translations.php:34
+msgid "WooCommerce Checkout"
+msgstr ""
+
+msgid "Wordpress Version:"
+msgstr "Версия Wordpress:"
+
+msgid "Working Hours"
+msgstr "Рабочие часы"
+
+#: includes/classes/admin/SettingsController.php:45
+msgid "Wrong currency value"
+msgstr "Валюта указана не верно"
+
+msgid "You are going to delete appointment "
+msgstr "Удаление записи на прием"
+
+msgid ""
+"You get <a href=\"%1$s\"><span %2$s>1 year</span> updates and support</a> from the date of purchase. We offer 30 days Money "
+"Back Guarantee based on <a href=\"%1$s\">Refund Policy</a>."
+msgstr ""
+
+#: includes/classes/Translations.php:39
+msgid "You will be redirected to"
+msgstr "Вы будете перенаправлены на "
+
+#: includes/classes/Translations.php:36
+msgid "Your Appointment Request successfully sent!"
+msgstr "Запись на прием успешно отправлена"
+
+msgid "Your card was not authenticated, please try again"
+msgstr "Ошибка аутентификации карты, попробуйте еще раз"

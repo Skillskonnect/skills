@@ -1,0 +1,8 @@
+2021-10-05T20:00:59+00:00 CRITICAL Uncaught Error: Call to undefined method stdClass::isGroup() in C:\xampp\htdocs\skills\wp-content\plugins\smart-slider-3\Nextend\SmartSlider3\Application\Frontend\Slider\ViewIframe.php:40
+Stack trace:
+#0 C:\xampp\htdocs\skills\wp-content\plugins\smart-slider-3\Nextend\SmartSlider3\Application\Frontend\Slider\ControllerPreRenderSlider.php(29): Nextend\SmartSlider3\Application\Frontend\Slider\ViewIframe->display()
+#1 [internal function]: Nextend\SmartSlider3\Application\Frontend\Slider\ControllerPreRenderSlider->actionIframe()
+#2 C:\xampp\htdocs\skills\wp-content\plugins\smart-slider-3\Nextend\Framework\Controller\AbstractController.php(95): call_user_func_array(Array, Array)
+#3 C:\xampp\htdocs\skills\wp-content\plugins\smart-slider-3\Nextend\Framework\Application\AbstractApplicationType.php(88): Nextend\Framework\Controller\AbstractController->doAction('iframe', Array)
+#4 C:\xampp\htdocs\skills\wp-content\plugins\smart-slider-3\Nextend\SmartSlider3\Platform\WordPress\WordPressFrontend.php(31): Nextend\Framewor in C:\xampp\htdocs\skills\wp-content\plugins\smart-slider-3\Nextend\SmartSlider3\Application\Frontend\Slider\ViewIframe.php on line 40
+
